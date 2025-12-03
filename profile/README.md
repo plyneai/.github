@@ -1,3 +1,6 @@
 <div align="center">
-  <img width="1722" height="280" src="https://github.com/user-attachments/assets/37628a8c-1d6c-40a3-91b3-34dd19188f58" alt="Plyne Banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/246c57a4-beba-4077-b480-73f74a13f32a">
+    <img alt="Plyne logo" src="https://github.com/user-attachments/assets/160147bc-8663-42e9-a33f-a178480f54bc">
+  </picture>
 </div>
