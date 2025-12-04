@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a0b9ca4f-3736-44b9-a8c2-954b3fa5d57a">
-    <img alt="Plyne logo" src="https://github.com/user-attachments/assets/10d5b70c-5dfa-462e-bf0b-5aa60f4e1e5c">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a59aa986-b99f-422d-bc06-5b8e6d6fa22d">
+    <img alt="Plyne logo" src="https://github.com/user-attachments/assets/6a00c7ad-a417-46b9-b515-2ecd75348619">
   </picture>
 </div>
